@@ -13,4 +13,4 @@ What is the interaction amongst various features that determine the rate of a su
 
 Conditions which will aid SpaceX have to achieve the best results.
 
-![image](https://user-images.githubusercontent.com/95922808/177621689-2b2a9094-388a-4539-aab0-a7288a282cad.png)
+
